@@ -2,12 +2,12 @@
 
 ## Zain Ul Abidin
 
-This repository compares different types of hashtables implementations. 
+This repository compares different types of hashtable implementations. 
 
  
  
   As perfect hashing is very hard to implement, their is a need for collision resolution if 
-we are usure about the collisions. For this purpose we use two types of techniques.
+we are unsure about the collisions. For this purpose we use two types of techniques.
 
 
  * Closed Hashing (Open Addressing)
