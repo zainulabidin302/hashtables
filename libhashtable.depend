@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1462219944 source:t:\cppdev\hashing\libhashtable\linearhashtable.cpp
+	"linearhashtable.h"
+	<iostream>
+
+1462215730 t:\cppdev\hashing\libhashtable\linearhashtable.h
+	"HashTable.h"
+
+1462255165 t:\cppdev\hashing\libhashtable\hashtable.h
+	"commons.h"
+	<cstring>
+	<iomanip>
+	<sstream>
+	<string>
+	<iostream>
+	<math.h>
+	<fstream>
+
+1461528752 t:\cppdev\hashing\libhashtable\commons.h
+
+1461733703 source:t:\cppdev\hashing\libhashtable\collidablehashtable.cpp
+	"collidablehashtable.h"
+
+1461522826 t:\cppdev\hashing\libhashtable\collidablehashtable.h
+	"hashtable.h"
+
+1462217713 source:t:\cppdev\hashing\libhashtable\logarithmichashtable.cpp
+	"logarithmichashtable.h"
+	<iostream>
+
+1462217702 t:\cppdev\hashing\libhashtable\logarithmichashtable.h
+	"HashTable.h"
+
+1462212874 source:t:\cppdev\hashing\libhashtable\quadratichashtable.cpp
+	"quadratichashtable.h"
+	<iostream>
+
+1462212376 t:\cppdev\hashing\libhashtable\quadratichashtable.h
+	"HashTable.h"
+
